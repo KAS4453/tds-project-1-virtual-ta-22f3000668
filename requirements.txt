@@ -1,9 +1,26 @@
+sentence-transformers==2.2.2
 fastapi
 uvicorn
-sentence-transformers==2.2.2
 python-dotenv
 aiohttp
 numpy
 pydantic
-python-multipart
+beautifulsoup4
+html2text
+markdown
 tqdm
+
+# Multipart uploads
+python-multipart
+
+# Scraping (Playwright)
+playwright
+
+# Markdown conversion
+markdownify
+
+# (Optional) If you plan local token estimation:
+tiktoken
+
+# Note: after installing, run:
+#   playwright install

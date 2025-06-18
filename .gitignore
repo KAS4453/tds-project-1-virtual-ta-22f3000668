@@ -1,0 +1,9 @@
+# Ignore local data and environment
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+.env
+*.pyc
+.DS_Store

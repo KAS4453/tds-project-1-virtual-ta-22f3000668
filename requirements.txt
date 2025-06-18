@@ -1,0 +1,32 @@
+# FastAPI and server
+fastapi
+uvicorn
+
+# Environment
+python-dotenv
+
+# HTTP and async
+aiohttp
+
+# Data processing
+numpy
+pydantic
+beautifulsoup4
+html2text
+markdown
+tqdm
+
+# Multipart uploads
+python-multipart
+
+# Scraping (Playwright)
+playwright
+
+# Markdown conversion
+markdownify
+
+# (Optional) If you plan local token estimation:
+tiktoken
+
+# Note: after installing, run:
+#   playwright install

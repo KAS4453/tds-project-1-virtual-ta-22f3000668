@@ -1,3 +1,9 @@
 fastapi
 uvicorn
 sentence-transformers==2.2.2
+python-dotenv
+aiohttp
+numpy
+pydantic
+python-multipart
+tqdm
